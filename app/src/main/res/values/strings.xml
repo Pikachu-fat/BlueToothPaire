@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlueToothAudioPair</string>
+    <string name="open_dialog">open_dialog</string>
+    <string name="close">close</string>
+    <string name="discovery">discovery</string>
+    <string name="four">four</string>
+    <string name="open">open_silent</string>
+</resources>
